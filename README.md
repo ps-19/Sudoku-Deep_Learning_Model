@@ -1,7 +1,7 @@
 # Sudoku_Deep_Learning_Model
 
 
-A simple mahine learning based project. It aims to solve sudoku through webcam. Python is the selected language in this case due to its simplicity, portability, and creativity with OpenCV, though it has a slower run time than C/C++. The image is read with OpenCV’s input function and the color channels are reduced from 3 to 1. 
+A simple Deep Learning based project. It aims to solve sudoku through webcam. Python is the selected language in this case due to its simplicity, portability, and creativity with OpenCV, though it has a slower run time than C/C++. The image is read with OpenCV’s input function and the color channels are reduced from 3 to 1. 
 
 Gaussian Blur has been used to reduce Background Noise. The Gaussian filter is a low-pass filter that removes the high-frequency components from the image ie noise. In our case, a kernel size of (1,1) is used due to less noise. 
 
