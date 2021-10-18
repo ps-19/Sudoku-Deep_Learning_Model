@@ -1,5 +1,6 @@
 # Sudoku_Deep_Learning_Model
 
+This project is a Computer Vision application that solves a 9x9 Sudoku puzzle using Deep Learning, which is a part of a broader family of Machine Learning and also a subset of Artificial Intelligence and the Backtracking Algorithm, which is a popular recursive algorithm for solving the puzzle.
 
 A simple Deep Learning based project. It aims to solve sudoku through webcam. Python is the selected language in this case due to its simplicity, portability, and creativity with OpenCV, though it has a slower run time than C/C++. The image is read with OpenCV’s input function and the color channels are reduced from 3 to 1. 
 
